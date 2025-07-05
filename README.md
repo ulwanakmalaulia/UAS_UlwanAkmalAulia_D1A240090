@@ -38,13 +38,13 @@
 
 **Halaman Gallery adalah halaman yang menampilkan foto-foto mahasiswa secara individu.**
 
-![galleryp](https://github.com/user-attachments/assets/cda18302-b2b1-4750-ba39-ebb92cb2de37)
+![gallery](https://github.com/user-attachments/assets/9d5d8c2b-3680-4af3-897c-3aa3b2b41b0b)
 
 # **C. Halaman About**
 
 **Halaman About adalah halaman yang menampilkan deskripsi tentang saya atau profile dari masing-masing mahasiswa.**
 
-![aboutp](https://github.com/user-attachments/assets/375bcf42-f286-4b48-a002-ab07535bbaf5)
+![about](https://github.com/user-attachments/assets/c9da2e15-e755-4e26-90a7-b130f5abecef)
 
 # **User Interface Halaman Admin**
 
@@ -52,34 +52,34 @@
 
 **Halaman Login adalah halaman yang digunakan untuk mengakses halaman admin, diperlukan username dan password.**
 
-![login](https://github.com/user-attachments/assets/c8ebbdbc-e15f-417f-98b9-b60412fc6fc7)
+![login](https://github.com/user-attachments/assets/a2d6bab5-5cca-4de6-aafd-4a432abb0793)
 
 # **B. Halaman Beranda**
 
 **Halaman Beranda merupakan halaman yang menampilkan statistik Jumlah Artikel dan Jumlah Gallery.**
 
-![beranda admin](https://github.com/user-attachments/assets/788ab523-66ea-49a9-868a-0f4cc4221392)
+![halaman](https://github.com/user-attachments/assets/e3798860-9879-412e-b3eb-617ac9349500)
 
 # **C. Halaman Kelola Artikel**
 
 **Halaman Kelola Artikel adalah halaman untuk mengelola Artikel dimulai dari Tampil Artikel, Tambah Artikel, Edit Artikel dan Hapus Artikel.**
 
-![artikel](https://github.com/user-attachments/assets/6f230a51-c4de-412c-ad19-b1760b43c0b1)
-![tambah artikel](https://github.com/user-attachments/assets/bb6bb3a0-a642-4a5b-a0e7-fdb6cc8919e9)
-![edit artikel](https://github.com/user-attachments/assets/622a689c-5e68-438a-96c7-bf366c9886f7)
+![halaman admin](https://github.com/user-attachments/assets/72198cb0-0dcf-494b-bbd5-bf0925d4eede)
+![tambah artikel baru](https://github.com/user-attachments/assets/3325cb46-7d5b-40a9-9a45-239468e9a887)
+![edit artikel](https://github.com/user-attachments/assets/8d722283-49ff-469c-b357-e8049030b6e8)
 
 # **D. Halaman Kelola Gallery**
 
 **Halaman Kelola Gallery adalah halaman untuk mengelola Gallery dimulai dari Tampil Gallery, Tambah Gallery, Edit Gallery dan Hapus Gallery.**
 
-![gallery](https://github.com/user-attachments/assets/b1d9d100-95d2-4485-8685-e950f62134f3)
-![tambahgallery](https://github.com/user-attachments/assets/5bf432f1-65e5-4a8b-a0a0-0277b1336877)
-![editgallery](https://github.com/user-attachments/assets/5a4b53d4-5da2-440d-b7c9-70324f91218a)
+![kelola gallery](https://github.com/user-attachments/assets/54b01e8f-c0b0-4cf3-a03c-a09617ea5fe4)
+![tambah gambar ke gallery](https://github.com/user-attachments/assets/3a8b18d9-77ce-467c-a3a8-1d02bf9fcd85)
+![edit gambar gallery](https://github.com/user-attachments/assets/79ccdc7b-6222-44e1-8a50-86df9843df6e)
 
 # **E. Halaman About**
 
 **Halaman About adalah halaman untuk mengelola About dimulai dari Tampil About, Tambah About, Edit About dan Hapus About.**
 
-![kelolaabout](https://github.com/user-attachments/assets/bc26c424-e3d3-4e5e-9064-42ba4f58e388)
-![tambahabout](https://github.com/user-attachments/assets/39b9c763-4766-4d0f-a295-22810744687c)
-![editabout](https://github.com/user-attachments/assets/416fa7bf-9898-4351-8eec-b7b49d3d6d92)
+![kelola halaman about](https://github.com/user-attachments/assets/58e57735-fb0b-4497-90f5-7c29b05551c1)
+![tambah data about](https://github.com/user-attachments/assets/d1ac1687-13c5-46e1-9457-4be8cc9e609d)
+![edit data about](https://github.com/user-attachments/assets/226af97b-d092-4dbc-9af9-b4c829fb91ca)
