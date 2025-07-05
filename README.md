@@ -32,7 +32,7 @@
 
 **Halaman Home atau Halaman Artikel adalah halaman yang menampilkan daftar artikel dan artikel terbaru.**
 
-![artikelp](https://github.com/user-attachments/assets/955d5f55-2b4c-48b0-8aef-355ce2d0a30a)
+![artikel](https://github.com/user-attachments/assets/9d39c8e5-493a-41ce-842f-cdbfd0f19228)
 
 # **B. Halaman Gallery**
 
